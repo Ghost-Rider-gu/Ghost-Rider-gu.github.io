@@ -1,0 +1,13 @@
+.header {
+    height: 300px;
+
+    background: url("../img/header-background.jpg") no-repeat center;
+    background-size: cover;
+
+    color: white;
+    text-align: center;
+}
+
+.main {
+    margin-top: 3rem;
+}
