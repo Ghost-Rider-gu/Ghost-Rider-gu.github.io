@@ -1,8 +1,21 @@
+body {
+    background-color: lightgray;
+}
+
 .header {
     height: 300px;
 
     background: url("../img/header-background.jpg") no-repeat center;
     background-size: cover;
+
+    color: white;
+    text-align: center;
+}
+
+.footer {
+    padding: 1rem;
+
+    background-color: #343a40;
 
     color: white;
     text-align: center;
