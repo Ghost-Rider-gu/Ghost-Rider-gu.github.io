@@ -1,1 +1,1 @@
-# Ghost Rider's personal page
+# Iurii Golubnichenko's personal page

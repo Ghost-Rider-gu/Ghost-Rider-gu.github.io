@@ -1,0 +1,23 @@
+@import url("https://fonts.googleapis.com/css2?family=Zen+Old+Mincho&display=swap");
+
+body {
+  background: whitesmoke;
+  margin: 50px;
+  font-family: "Zen Old Mincho";
+  display: flex;
+}
+
+.wrapper {
+  width: 80%;
+  color: #49515d;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  display: inline;
+}
+
+h2 > span {
+  color: #2eca7f;
+}
